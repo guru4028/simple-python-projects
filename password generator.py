@@ -1,14 +1,3 @@
-# collect user preferences
-# - length
-# - should contain uppercase
-# - should contain special
-# - should contain digits
-
-# get all available characters
-# randomly pick characters up to the length
-# ensure we have at least one of each character type
-# ensure length is valid
-
 import random
 import string
 
